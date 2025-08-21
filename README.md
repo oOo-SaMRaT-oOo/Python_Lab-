@@ -1,63 +1,39 @@
-🚀 Advanced Computer Programming (CT 153)
+# 🚀 Advanced Computer Programming (CT 153)
 
 📍 Year: I – Part II  
-💻 Language: Python
+💻 Language: Python  
 
-🎯 Course Overview  
-This course teaches Python from the ground up, starting with programming paradigms and progressing through core syntax, object-oriented programming, error and file handling, and finally diving into powerful libraries like NumPy for real-world problem solving.
+---
 
-By the end of the course, you’ll be able to:  
-✅ Write Python code using both procedural and OOP styles  
-✅ Handle files, errors, and exceptions gracefully  
+## 🎯 Overview  
+Learn Python from scratch to advanced: starting with programming basics, moving through OOP, error & file handling, and finishing strong with **NumPy** for real-world problem solving.  
+
+By the end, you’ll be able to:  
+✅ Write clean Python (procedural & OOP)  
+✅ Handle files, errors, and exceptions  
 ✅ Work with advanced data structures  
-✅ Use NumPy for mathematical, statistical, and linear algebra operations  
+✅ Use NumPy for math, stats, and linear algebra  
 
-📑 Syllabus Breakdown  
-1. Programming Paradigms  
-   - Types, pros/cons, examples  
+---
 
-2. Introduction to Python  
-   - History, features, comparisons (C/C++/Java/JS)  
-   - Popular implementations  
+## 📑 Syllabus Highlights
+1. **Programming Paradigms** – styles & examples  
+2. **Python Basics** – syntax, variables, loops, functions  
+3. **Advanced Data Types** – lists, sets, dicts, lambdas  
+4. **OOP** – classes, inheritance, polymorphism, operator overloading  
+5. **Exceptions & Files** – try/except, logging, file handling  
+6. **Libraries & NumPy** – arrays, operations, random numbers, statistics  
 
-3. Python Basics  
-   - Data types, variables, inputs  
-   - Operators, conditionals, loops  
-   - Functions & recursion  
+---
 
-4. Advanced Data Types  
-   - Lists, tuples, dictionaries, sets, 2D lists  
-   - Mutable vs immutable  
-   - Lambda functions  
-
-5. Object-Oriented Programming  
-   - Classes, objects, methods  
-   - __init__(), __str__(), deleting, iterators  
-   - Inheritance (single, multiple, multilevel, hierarchical)  
-   - Polymorphism, abstract classes  
-   - Operator overloading (arithmetic, bitwise, comparison, assignment, unary)  
-
-6. Exceptions & File Handling  
-   - Errors & exceptions  
-   - Try/except handling  
-   - User-defined exceptions  
-   - assert and logging  
-   - File handling (text, binary, random access)  
-
-7. Python Libraries & Math (NumPy)  
-   - Modules, packages, frameworks  
-   - NumPy arrays: creation, indexing, slicing, editing  
-   - Stacking, reshaping, concatenation  
-   - Arithmetic operations & broadcasting  
-   - Random number generation  
-   - Statistics & linear algebra with NumPy  
-
-🛠 Tools Required  
+## 🛠 Tools  
 - Python 3.x  
-- IDEs: VS Code, PyCharm, or Jupyter Notebook  
+- VS Code / PyCharm / Jupyter Notebook  
 - Git + GitHub  
 
-📖 Recommended Resources  
-- Python Crash Course – Eric Matthes  
-- Fluent Python – Luciano Ramalho  
-- Official Docs: https://docs.python.org
+---
+
+## 📖 Resources  
+- *Python Crash Course* – Eric Matthes  
+- *Fluent Python* – Luciano Ramalho  
+- [Python Docs](https://docs.python.org)  
