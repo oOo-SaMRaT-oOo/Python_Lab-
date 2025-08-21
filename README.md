@@ -1,99 +1,63 @@
 🚀 Advanced Computer Programming (CT 153)
 
-📍 Year: I – Part II
+📍 Year: I – Part II  
 💻 Language: Python
 
-🎯 What this course is about
+🎯 Course Overview  
+This course teaches Python from the ground up, starting with programming paradigms and progressing through core syntax, object-oriented programming, error and file handling, and finally diving into powerful libraries like NumPy for real-world problem solving.
 
-This course is all about learning Python the right way – starting from programming paradigms, moving into Python basics, OOP concepts, error handling, file handling, and finally exploring libraries like NumPy for real problem solving.
+By the end of the course, you’ll be able to:  
+✅ Write Python code using both procedural and OOP styles  
+✅ Handle files, errors, and exceptions gracefully  
+✅ Work with advanced data structures  
+✅ Use NumPy for mathematical, statistical, and linear algebra operations  
 
-By the end, you’ll be able to:
+📑 Syllabus Breakdown  
+1. Programming Paradigms  
+   - Types, pros/cons, examples  
 
-Code in Python (procedural + OOP)
+2. Introduction to Python  
+   - History, features, comparisons (C/C++/Java/JS)  
+   - Popular implementations  
 
-Handle files, errors, and exceptions smoothly
+3. Python Basics  
+   - Data types, variables, inputs  
+   - Operators, conditionals, loops  
+   - Functions & recursion  
 
-Work with advanced data structures
+4. Advanced Data Types  
+   - Lists, tuples, dictionaries, sets, 2D lists  
+   - Mutable vs immutable  
+   - Lambda functions  
 
-Use NumPy for math, stats, and linear algebra
+5. Object-Oriented Programming  
+   - Classes, objects, methods  
+   - __init__(), __str__(), deleting, iterators  
+   - Inheritance (single, multiple, multilevel, hierarchical)  
+   - Polymorphism, abstract classes  
+   - Operator overloading (arithmetic, bitwise, comparison, assignment, unary)  
 
-📑 Syllabus Overview
-1. Programming Paradigms
+6. Exceptions & File Handling  
+   - Errors & exceptions  
+   - Try/except handling  
+   - User-defined exceptions  
+   - assert and logging  
+   - File handling (text, binary, random access)  
 
-Types, pros/cons, examples
+7. Python Libraries & Math (NumPy)  
+   - Modules, packages, frameworks  
+   - NumPy arrays: creation, indexing, slicing, editing  
+   - Stacking, reshaping, concatenation  
+   - Arithmetic operations & broadcasting  
+   - Random number generation  
+   - Statistics & linear algebra with NumPy  
 
-2. Intro to Python
+🛠 Tools Required  
+- Python 3.x  
+- IDEs: VS Code, PyCharm, or Jupyter Notebook  
+- Git + GitHub  
 
-Why Python, history, features, comparison with C/C++/Java/JS
-
-Popular implementations
-
-3. Basics
-
-Data types, variables, inputs
-
-Operators, conditionals, loops
-
-Functions & recursion
-
-4. Advanced Data Types
-
-Lists, tuples, dictionaries, sets, 2D lists
-
-Mutable vs immutable
-
-Lambda functions
-
-5. Object-Oriented Programming
-
-Classes, objects, methods
-
-__init__(), __str__(), deleting, iterators
-
-Inheritance (single, multiple, multilevel, hierarchical)
-
-Polymorphism, abstract classes
-
-Operator overloading (arithmetic, bitwise, comparison, assignment, unary)
-
-6. Exceptions & File Handling
-
-Errors & exceptions
-
-Try/except handling
-
-User-defined exceptions
-
-assert and logging
-
-File handling (text, binary, random access)
-
-7. Python Libraries & Maths (NumPy)
-
-Modules, packages, frameworks
-
-NumPy arrays: creation, indexing, slicing, editing
-
-Stacking, reshaping, concatenation
-
-Arithmetic ops & broadcasting
-
-Random number generation
-
-Statistics & linear algebra with NumPy
-
-🛠 Tools You’ll Need
-
-Python 3.x
-
-Any IDE (VS Code, PyCharm, Jupyter Notebook)
-
-Git + GitHub
-
-📖 References
-
-Python Crash Course – Eric Matthes
-
-Fluent Python – Luciano Ramalho
-
-Official Docs: docs.python.org
+📖 Recommended Resources  
+- Python Crash Course – Eric Matthes  
+- Fluent Python – Luciano Ramalho  
+- Official Docs: https://docs.python.org
