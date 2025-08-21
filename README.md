@@ -1,33 +1,94 @@
-Advanced Computer Programming (CT 153)
+🚀 Advanced Computer Programming (CT 153)
 
-📍 Year I – Part II
+📍 Year: I – Part II
 💻 Language: Python
 
-🎯 Objectives
+🎯 What this course is about
 
-Learn programming paradigms
+This course is all about learning Python the right way – starting from programming paradigms, moving into Python basics, OOP concepts, error handling, file handling, and finally exploring libraries like NumPy for real problem solving.
 
-Master Python basics & OOP
+By the end, you’ll be able to:
 
-Apply Python in real-world problem solving
+Code in Python (procedural + OOP)
 
-📑 Syllabus
+Handle files, errors, and exceptions smoothly
 
-Programming Paradigms – Types, pros/cons, examples
+Work with advanced data structures
 
-Intro to Python – Need, history, features, comparison, implementations
+Use NumPy for math, stats, and linear algebra
 
-Basics – Data types, variables, inputs, operators, conditionals, loops, functions, recursion
+📑 Syllabus Overview
+1. Programming Paradigms
 
-Advanced Data Types – List, tuple, dict, set, 2D lists, lambda, mutable vs immutable
+Types, pros/cons, examples
 
-OOP – Classes, objects, inheritance, polymorphism, operator overloading
+2. Intro to Python
 
-🛠 Tools
+Why Python, history, features, comparison with C/C++/Java/JS
+
+Popular implementations
+
+3. Basics
+
+Data types, variables, inputs
+
+Operators, conditionals, loops
+
+Functions & recursion
+
+4. Advanced Data Types
+
+Lists, tuples, dictionaries, sets, 2D lists
+
+Mutable vs immutable
+
+Lambda functions
+
+5. Object-Oriented Programming
+
+Classes, objects, methods
+
+__init__(), __str__(), deleting, iterators
+
+Inheritance (single, multiple, multilevel, hierarchical)
+
+Polymorphism, abstract classes
+
+Operator overloading (arithmetic, bitwise, comparison, assignment, unary)
+
+6. Exceptions & File Handling
+
+Errors & exceptions
+
+Try/except handling
+
+User-defined exceptions
+
+assert and logging
+
+File handling (text, binary, random access)
+
+7. Python Libraries & Maths (NumPy)
+
+Modules, packages, frameworks
+
+NumPy arrays: creation, indexing, slicing, editing
+
+Stacking, reshaping, concatenation
+
+Arithmetic ops & broadcasting
+
+Random number generation
+
+Statistics & linear algebra with NumPy
+
+🛠 Tools You’ll Need
 
 Python 3.x
 
-VS Code / PyCharm / Jupyter
+Any IDE (VS Code, PyCharm, Jupyter Notebook)
+
+Git + GitHub
 
 📖 References
 
@@ -35,4 +96,4 @@ Python Crash Course – Eric Matthes
 
 Fluent Python – Luciano Ramalho
 
-Python Docs
+Official Docs: docs.python.org
